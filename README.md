@@ -246,3 +246,14 @@ Some of the key takeaways included:
 - Collaborating on a graphics project and integrating different components into a single environment.
 
 ---
+## 📄 License
+
+Please refer to the repository for applicable licensing information.
+
+## 👨‍💻 Author
+
+**ursleeplessprogrammer**
+
+GitHub: [@ursleeplessprogrammer](https://github.com/ursleeplessprogrammer)
+
+---
