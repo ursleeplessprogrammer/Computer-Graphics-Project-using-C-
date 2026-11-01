@@ -1,13 +1,13 @@
 
-# 🎮 3D Computer Graphics Project — C++
+# 🎮 3D Computer Graphics Project — C#
 
 <p align="center">
   <strong>A Collaborative 3D Computer Graphics Project</strong><br>
-  Developed using C++ and Visual Studio 2022
+  Developed using C# and Visual Studio 2022
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-C#-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/IDE-Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Graphics-OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
   <img src="https://img.shields.io/badge/3D%20Modeling-Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
@@ -224,7 +224,7 @@ This project brought together several fundamental concepts in 3D computer graphi
 
 | Technology | Purpose |
 |---|---|
-| **C++** | Main programming language |
+| **C#** | Main programming language |
 | **Visual Studio 2022** | Development environment |
 | **OpenGL** | 3D graphics rendering |
 | **Blender** | 3D modeling and asset preparation |
